@@ -262,7 +262,7 @@ figure {
 }
 
 .sf-menu a {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgb(0, 0, 0);
   padding: 0.75em 1em !important;
   font-weight: normal;
   border-left: none;
@@ -274,11 +274,11 @@ figure {
   border-bottom: none !important;
 }
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #f70c0c !important;
+  color: #ffffff !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  color: #f70c0c;
+  color: #ffffff;
 }
 
 .sf-menu li,
@@ -302,7 +302,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #f70c0c;
+  color: #ffffff;
 }
 
 .sf-menu ul li:hover,
